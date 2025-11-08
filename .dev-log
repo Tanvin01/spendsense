@@ -17,3 +17,5 @@
 [2026-04-19T12:47:00] refactor: extract reusable hooks for data fetching
 
 [2025-11-04T09:30:00] feat: initialise React + Vite project with Tailwind CSS
+
+[2025-11-08T16:20:00] feat: design MongoDB transaction schema with Mongoose
