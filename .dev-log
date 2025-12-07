@@ -53,3 +53,4 @@
 [2025-11-04T09:30:00] feat: initialise React Vite project with Tailwind CSS
 [2025-11-08T16:20:00] feat: design MongoDB transaction schema with Mongoose
 [2025-12-03T09:15:00] feat: build transaction CRUD REST API with Express
+[2025-12-07T13:30:00] feat: add JWT auth middleware with refresh token support
