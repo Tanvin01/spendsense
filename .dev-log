@@ -29,3 +29,5 @@
 [2026-01-05T09:45:00] feat: add budget goals with monthly category limits
 
 [2026-01-09T15:30:00] feat: implement recurring transaction scheduler
+
+[2026-01-14T10:00:00] feat: add multi-currency support with live exchange rates
