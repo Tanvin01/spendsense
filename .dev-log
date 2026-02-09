@@ -59,3 +59,4 @@
 [2026-01-09T15:30:00] feat: implement recurring transaction scheduler
 [2026-01-14T10:00:00] feat: add multi-currency support with live exchange rates
 [2026-02-04T09:15:00] feat: add line chart for 6-month spending trend analysis
+[2026-02-09T15:00:00] feat: implement CSV export with proper date formatting
