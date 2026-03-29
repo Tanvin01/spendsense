@@ -12,3 +12,4 @@
 [2026-02-25T10:03:00] perf: lazy load components for better FCP
 [2026-03-06T14:13:00] refactor: extract reusable hooks for data fetching
 [2026-03-14T15:58:00] docs: update API documentation with examples
+[2026-03-29T13:24:00] feat: add pagination to list views
