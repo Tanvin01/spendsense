@@ -43,3 +43,5 @@
 [2026-04-06T09:30:00] feat: add dark mode with system preference detection
 
 [2026-05-03T09:15:00] feat: add financial summary email report (weekly digest)
+
+[2026-05-08T15:00:00] perf: optimise MongoDB aggregation pipeline for analytics
