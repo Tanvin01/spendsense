@@ -45,3 +45,5 @@
 [2026-05-03T09:15:00] feat: add financial summary email report (weekly digest)
 
 [2026-05-08T15:00:00] perf: optimise MongoDB aggregation pipeline for analytics
+
+[2026-06-03T09:30:00] feat: add budget vs actual comparison view
