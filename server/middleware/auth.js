@@ -1,9 +1,8 @@
 ﻿const jwt = require("jsonwebtoken");
 const User = require("../models/User");
-
 module.exports = async (req, res, next) => {
-  const token = req.headers.authorization?.replace("Bearer ", "");
-  if (!token) return res.status(401).json({ error: "No token provided" });
+  const token = req.headers.authorization?.replace("Bearer ","");
+  if (!token) return res.status(401).json({ error: "No token" });
   try {
     const { id } = jwt.verify(token, process.env.JWT_SECRET);
     req.user = await User.findById(id);
